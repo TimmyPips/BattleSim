@@ -1,0 +1,2 @@
+# BattleSim
+Random Battle Simulator
